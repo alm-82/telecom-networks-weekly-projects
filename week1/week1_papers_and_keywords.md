@@ -2,21 +2,21 @@
 
 ## 📘 Selected Papers (2023–2025)
 
-1. **Xingqin Lin**, *“Artificial Intelligence in 3GPP 5G-Advanced: A Survey”*, IEEE Communications Magazine, 2023.  
+1. **Xingqin Lin**, *[Artificial Intelligence in 3GPP 5G-Advanced: A Survey](https://ieeexplore.ieee.org/document/10150774)*, **IEEE Communications Magazine**, 2023.  
    Impact Factor: ≈ 9.0  
 
-2. **N. Toumi et al.**, *“Machine Learning for Service Migration: A Survey”*, IEEE Communications Surveys & Tutorials, 2024.  
+2. **N. Toumi et al.**, *[Machine Learning for Service Migration: A Survey](https://ieeexplore.ieee.org/document/10420239)*, **IEEE Communications Surveys & Tutorials**, 2024.  
    Impact Factor: ≈ 35.6  
 
-3. **Adnei W. Donatti et al.**, *“Survey on Machine Learning-Enabled Network Slicing: Covering the Entire Life Cycle”*, IEEE Transactions on Network and Service Management, 2023.  
+3. **Adnei W. Donatti et al.**, *[Survey on Machine Learning-Enabled Network Slicing: Covering the Entire Life Cycle](https://ieeexplore.ieee.org/document/10079936)*, **IEEE Transactions on Network and Service Management**, 2023.  
    Impact Factor: ≈ 3.5  
 
-4. **Diego Gabriel Soares Pivoto et al.**, *“A Comprehensive Survey of Machine Learning Applied to Resource Allocation in Wireless Communications”*, IEEE Communications Surveys & Tutorials, 2025.  
+4. **Diego Gabriel Soares Pivoto et al.**, *[A Comprehensive Survey of Machine Learning Applied to Resource Allocation in Wireless Communications](https://ieeexplore.ieee.org/document/10708525)*, **IEEE Communications Surveys & Tutorials**, 2025.  
    Impact Factor: ≈ 35.6  
 
 ---
 
-## 🔑 5 Keywords
+## 🔑 Common Keywords
 
 1. **Machine Learning**  
 2. **Wireless Networks**  
