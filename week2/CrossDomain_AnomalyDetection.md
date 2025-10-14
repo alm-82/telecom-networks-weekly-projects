@@ -84,6 +84,4 @@ The goal of this project is to analyze and compare machine learning approaches f
 5. **Comparative Analysis:** Compare ML techniques, datasets, accuracy, and applicability across domains.
 6. **Conclusion & Future Work:** Discuss cross-domain insights and possible improvements.
 
----
 
-*This markdown file is ready for GitHub as a project README or documentation file.*
