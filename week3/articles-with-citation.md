@@ -24,7 +24,7 @@ Keywords: Machine Learning, Wireless Network Security, Anomaly Detection, Fault 
 
 Platform / Programming Language: Python, scikit-learn
 
-Article Link: https://doi.org/10.1016/j.comcom.2023.02.019
+Article Link: Anomaly detection for fault detection in wireless community networks using machine learning
 
 Citation: (Cerdà‑Alabern, Iuhasz, & Gemmi, 2023)
 
@@ -46,7 +46,7 @@ Keywords: Machine Learning, IoT / Wireless Network Security, Intrusion Detection
 
 Platform / Programming Language: Python, scikit-learn
 
-Article Link: https://www.mdpi.com/1424-8220/23/13/5941
+Article Link: CICIoT2023: A Real-Time Dataset and Benchmark for Large-Scale Attacks in IoT Environment
 
 Citation: (Pinto Neto, Dadkhah, Ferreira, Zohourian, & Lu, 2023)
 
@@ -68,7 +68,7 @@ Keywords: Machine Learning, Churn Prediction, Telecom Data, XGBoost, Python
 
 Platform / Programming Language: Python, XGBoost
 
-Article Link: https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0191-6
+Article Link: Customer churn prediction in telecom using machine learning in big data platform
 
 Citation: (Ahmad, Usman, & Khan, 2019)
 
@@ -84,13 +84,13 @@ Focus: Detecting telecom fraud in Chinese web texts and SMS using deep learning 
 
 Dataset: CHIFRAUD – Long-term benchmark for Chinese fraud detection
 
-Dataset Link: https://github.com/xuemingxxx/ChiFraud
+Dataset Link: CHIFRAUD Dataset (GitHub)
 
 Keywords: Machine Learning, NLP, Transformer, Fraud Detection, Python/PyTorch
 
 Platform / Programming Language: Python, PyTorch
 
-Article Link: https://aclanthology.org/2025.coling-main.398/
+Article Link: CHIFRAUD: A Long-Term Web Text Benchmark for Chinese Fraud Detection
 
 Citation: (Tang, Zou, Liang, Jin, Wang, & Cui, 2025)
 
@@ -112,7 +112,7 @@ Keywords: ECG, Arrhythmia Detection, Deep Learning, CNN, LSTM, Transformers, Cla
 
 Platform / Programming Language: Python (PyTorch / TensorFlow)
 
-Article Link: https://doi.org/10.3389/fphys.2023.1246746
+Article Link: Deep Learning for ECG Arrhythmia Detection and Classification (2017–2023)
 
 Citation: (Luo et al., 2023)
 
@@ -134,7 +134,7 @@ Keywords: ECG, Arrhythmia, Lightweight Models, Real-Time Monitoring, Edge Deploy
 
 Platform / Programming Language: Python (1D-CNN / compact transformer-like models)
 
-Article Link: https://doi.org/10.1016/j.heliyon.2024.e26787
+Article Link: Efficient AI Models for Abnormal Cardiac Rhythm Classification from ECG
 
 Citation: (Zhang et al., 2024)
 
@@ -182,7 +182,7 @@ Proposed Literature Review Structure
 
 ---
 
-References 
+References (APA Style)
 
 1. Cerdà‑Alabern, L., Iuhasz, G., & Gemmi, G. (2023). Anomaly detection for fault detection in wireless community networks using machine learning. Computer Communications, 201, 123–134. https://doi.org/10.1016/j.comcom.2023.02.019
 
@@ -204,4 +204,7 @@ References
 
 
 Author: Ali — 2025 Research Summary for Cross-Domain Anomaly Detection
+
+
+
 
